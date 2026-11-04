@@ -1,0 +1,6 @@
+# Submission path budget: 0 bytes for each generated path below.
+# dist/ and all source/runtime assets intentionally remain included.
+/node_modules/
+/test/scratch/
+/.cache/
+*.tsbuildinfo

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#faf7ef"/>
+<path d="M70 49h14v8h16v-8h14v20h4v26h-10v8H76v-8H66V69h4Z" fill="#3f302e"/><path d="M74 53h6v12h24V53h6v20h4v18h-10v8H80v-8H70V73h4Z" fill="#cd8953"/><path d="M78 69h28v8h4v14h-10v6H82v-6H74V77h4Z" fill="#ffe8bd"/><path d="M78 71h6v8h-6Zm24 0h6v8h-6Z" fill="#3f302e"/><path d="M88 83h10v6H88Z" fill="#ad3855"/>
+<text x="140" y="89" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#302f2b">Wheel Rush</text>
+<path d="M64 130h1072" stroke="#dfdbd0"/>
+<text x="64" y="267" font-family="Arial,sans-serif" font-weight="800" letter-spacing="-5" font-size="92" fill="#302f2b">Tiny paws.</text>
+<text x="64" y="369" font-family="Arial,sans-serif" font-weight="800" letter-spacing="-5" font-size="92" fill="#ad3855">Big rush.</text>
+<text x="68" y="429" font-family="Arial,sans-serif" font-size="25" fill="#686459">One wheel. A whole lot of sunflower seeds.</text>
+<rect x="68" y="474" width="202" height="58" rx="9" fill="#ad3855"/>
+<path d="m90 490 18 13-18 13Z" fill="#fffdf8"/>
+<text x="122" y="512" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#fffdf8">Start run</text>
+<text x="68" y="589" font-family="Arial,sans-serif" font-size="20" fill="#686459">A Squeekchain community arcade · @squeekchain</text>
+<rect x="680" y="160" width="460" height="395" rx="18" fill="#e9ede3"/>
+<path d="M910 350v180M800 528h220" stroke="#4d5c4c" stroke-width="18"/>
+<circle cx="910" cy="340" r="164" fill="#dfe4d5"/>
+<g stroke="#bfccba" stroke-width="5"><path d="M910 177v326M747 340h326M769 258l282 164M828 199l164 282M828 481l164-282M769 422l282-164"/></g>
+<circle cx="910" cy="340" r="164" fill="none" stroke="#3c493d" stroke-width="24"/>
+<circle cx="910" cy="340" r="164" fill="none" stroke="#eeb957" stroke-width="16"/>
+<circle cx="910" cy="340" r="168" fill="none" stroke="#f8dda0" stroke-width="3"/>
+<circle cx="910" cy="340" r="15" fill="#3c493d"/><circle cx="910" cy="340" r="9" fill="#eeb957"/>
+<g shape-rendering="crispEdges" transform="translate(860 405) scale(3.6)"><path d="M5 3h7v4h8V3h7v10h2v13h-5v4H8v-4H3V13h2Z" fill="#3f302e"/><path d="M7 5h3v6h12V5h3v10h2v9h-5v4H10v-4H5v-9h2Z" fill="#cd8953"/><path d="M9 13h14v4h2v7h-5v3h-9v-3H7v-7h2Z" fill="#ffe8bd"/><path d="M9 14h3v4H9Zm12 0h3v4h-3Z" fill="#3f302e"/><path d="M14 20h5v3h-5Z" fill="#ad3855"/></g>
+<g transform="translate(1040 388) rotate(-20)" fill="#f6c851" stroke="#806238" stroke-width="3"><path d="M-5-12h10v24H-5Z"/><path d="M-5 22h10v24H-5Z"/></g>
+</svg>
